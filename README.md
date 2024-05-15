@@ -18,7 +18,7 @@ The purpose of this analysis is to develop and optimize deep learning models usi
   - Achieved Accuracy: 72.73%
 - **Steps Taken to Increase Model Performance**: Increased neuron count in hidden layers, reduced epochs.
 
-### AlphabetSoupCharity_Optimization2
+### [AlphabetSoupCharity_Optimization2.ipynb](AlphabetSoupCharity_Optimization2.ipynb)
 - **Data Preprocessing**:
   - Same as Optimization1
 - **Model Architecture**:
@@ -29,7 +29,7 @@ The purpose of this analysis is to develop and optimize deep learning models usi
   - Achieved Accuracy: 72.42%
 - **Steps Taken to Increase Model Performance**: Adjusted activation functions.
 
-### AlphabetSoupCharity_Optimization3
+### [AlphabetSoupCharity_Optimization3.ipynb](AlphabetSoupCharity_Optimization3.ipynb)
 - **Data Preprocessing**:
   - Similar to Optimization1 and Optimization2 with minor changes in cutoff values.
 - **Model Architecture**:
