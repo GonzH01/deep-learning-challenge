@@ -5,7 +5,7 @@ The purpose of this analysis is to develop and optimize deep learning models usi
 
 ## Results
 
-### AlphabetSoupCharity_Optimization1
+### [AlphabetSoupCharity_Optimization1.ipynb](AlphabetSoupCharity_Optimization1.ipynb)
 - **Data Preprocessing**:
   - Target Variable: IS_SUCCESSFUL
   - Features: All columns except 'EIN' and 'NAME'
