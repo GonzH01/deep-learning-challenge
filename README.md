@@ -1,7 +1,7 @@
 # AlphabetSoupCharity Deep Learning Analysis
 
 ## Overview of the Analysis
-The purpose of this analysis is to develop and optimize deep learning models using TensorFlow to predict whether charitable organizations will be successful based on various features provided in the dataset.
+The purpose of this analysis is to develop and optimize deep learning models using TensorFlow to predict whether charitable organizations will be successful based on various features provided in the dataset. The [Starter_Code.ipynb](Starter_Code.ipynb) provides a structured approach to preprocess the charity_data.csv dataset and build a neural network model using TensorFlow and scikit-learn. It serves as a template to identifying target and feature variables, handling categorical variables, and training the model to predict the success of Alphabet Soup-funded organizations.
 
 ## Results
 
